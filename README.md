@@ -2,7 +2,7 @@
 
 >  👀 I’m interested in developing engaging products through clean code.
 
->  🌱 I’m currently learning how to become a full-stack web developer.
+>  🌱 I’m currently working as a full-stack web developer.
 
 >  💞️ I’m looking to collaborate on e-commerce, calculators, or simple form flows.
 
